@@ -1,0 +1,6 @@
+# ignore all cache files
+__pycache__/
+*.pyc
+*.npy
+*~
+*.swp
